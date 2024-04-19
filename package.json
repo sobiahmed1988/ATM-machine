@@ -1,0 +1,20 @@
+ {
+  "name": "atm-machine-newlatest-sobiahmed",
+  "version": "1.0.0",
+  "description": "This is my first ATM Machine project.",
+  "main": "app.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atm-machine-newlatest-sobiahmed": "^1.0.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
